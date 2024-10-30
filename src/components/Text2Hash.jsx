@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 import axios from "axios";
 
 
@@ -68,7 +68,7 @@ function Text2Hash() {
                     <option value="sha1">sha1</option>
                     <option value="sha224">sha224</option>
                     <option value="sha256">sha256</option>
-                    <option value="sha256">sha256</option>
+{/*                     <option value="sha256">sha256</option> */}
                     <option value="sha3-256">sha3-256</option>
                     <option value="sha3-384">sha3-384</option>
                     <option value="sha3-512">sha3-512</option>
